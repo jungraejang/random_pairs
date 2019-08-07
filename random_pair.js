@@ -22,7 +22,7 @@ let fellows = [
   "Kameron",
   "Karen",
   "Jenesh",
-  "Chukwuka",
+  "Chuck",
   "Joseph",
   "Kathy",
   "Ohidur",
